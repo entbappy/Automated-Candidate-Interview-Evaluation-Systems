@@ -1,0 +1,28 @@
+1. Learning Outcome:
+   - Master building multi-agent workflows using Microsoft AutoGen.
+   - Implement real-time bi-directional communication using FastAPI and WebSockets.
+   - Understand the orchestration of role-playing AI agents (Interviewer, Candidate, Evaluator).
+   - Gain experience integrating OpenAI's GPT-4o for context-aware interactions.
+   - Develop efficient asynchronous Python applications.
+   - Build a modern, interactive web interface for AI-driven applications.
+
+2. What you will build:
+   - An "Automated Candidate Interview Evaluation System" capable of conducting technical interviews.
+   - A Multi-Agent System where an AI Interviewer asks questions and an AI Evaluator provides real-time feedback.
+   - A WebSocket-based backend that streams conversation data between the AI agents and the user interface.
+   - A user-facing web application that simulates a real interview environment.
+
+3. Prerequisite:
+   - Proficiency in Python programming.
+   - Basic understanding of Asynchronous programming (async/await).
+   - Familiarity with REST APIs and WebSockets.
+   - An OpenAI API key and basic knowledge of LLMs.
+
+4. Technologies:
+   - Programming Language: Python
+   - Web Framework: FastAPI
+   - AI Framework: Microsoft AutoGen
+   - LLM Provider: OpenAI (GPT-4o)
+   - Real-time Protocol: WebSockets
+   - Frontend: HTML/CSS, Jinja2 Templates
+   - Environment Management: Python-dotenv
